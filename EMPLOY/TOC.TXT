@@ -1,0 +1,88 @@
+FILENAME        DESCRIPTION OF FILE CONTENTS
+--------        -------------------------------------------------
+AWHI            Aggregate Weekly Hours Indx: Private Nonfarm
+                   Payrolls
+                   Seasonally Adjusted, 1982=100
+                   1964.01 - present
+AWHNONAG        Average Weekly Hours: Private Nonagricultural
+                   Establishments
+                   Seasonally Adjusted
+                   1964. 1 - present
+CE16OV          Civilian Employment--16 years and older
+                   Seasonally Adjusted
+                   1948. 1 - present
+CIVPART         Civilian Participation Rate
+                   Seasonally Adjusted, Percent
+                   1948. 1 - Present
+CLF16OV         Civilian Labor Force
+                   Seasonally Adjusted
+                   1948. 1 - present
+CNP             Civilian Noninstitutional Population,
+                   Not Seasonally Adjusted, Thousands
+                   1948. 1 - present
+CNP16OV         Civilian Non-Institutional Population, 16
+                   Years and Over, Not Seasonally Adjusted
+                   1948. 1 - present
+EMRATIO         Employment Ratio
+                   Civilian Employ./Civilian Non. Inst. Pop.
+                   Seasonally Adjusted
+                   1948.1 - present
+HELPWANT        Index of Help Wanted Advertising in Newspapers
+                   (1987=100)
+                   1951. 1 - present
+MANEMP          U.S. Manufacturing Employment
+                   Seasonally Adjusted
+                   1946. 1 - present
+PAYEMS          Payroll Employment of Wage and Salary Workers
+                   Seasonally Adjusted
+                   1946. 1 - present
+POP             Total Population of the U.S.
+                   Not Seasonally Adjusted
+                   1952. 1 - present
+SRVPRD          U.S. Employment in Service Producing Industries
+                   Seasonally Adjusted
+                   1946. 1 - present
+UEMP15OV        Civilian Unemployed for 15 Weeks and Over
+                   Seasonally Adjusted, Thousands
+                   1948. 1 - present
+UEMPLT5         Civilians Unemployed for Less Than 5 Weeks
+                   Seasonally Adjusted, Thousands
+                   1948. 1 - present
+UEMPMED         Median Duration of Unemployment
+                   Seasonally Adjusted, Weeks
+                   1967. 1 - present
+UNEMPLOY        Unemployed -- All Civilian Workers
+                   Seasonally Adjusted
+                   1948. 1 - present
+UNRATE          Unemployment Rate
+                   Seasonally Adjusted
+                   1948. 1 - present
+USCONS          U.S. Employment in Construction
+                   Seasonally Adjusted
+                   1946. 1 - present
+USFIRE          U.S. Employment in Finance, Insurance, and Real
+                   Estate
+                   Seasonally Adjusted
+                   1946. 1 - present
+USGOOD          U.S. Employment in Goods Producing Sectors
+                   Seasonally Adjusted
+                   1946. 1 - present
+USGOVT          U.S. Employment in Government
+                   Seasonally Adjusted
+                   1946. 1 - present
+USMINE          U.S. Employment in Mining
+                   Seasonally Adjusted
+                   1946. 1 - present
+USSERV          U.S. Employment in Services
+                   Seasonally Adjusted
+                   1946. 1 - present
+USTPU           U.S. Employment in Transportation and Public
+                   Utilities
+                   Seasonally Adjusted
+                   1946. 1 - present
+USTRADE         U.S. Employment in Retail Trade Industry
+                   Seasonally Adjusted
+                   1946. 1 - present
+USWTRADE        U.S. Employment in Wholesale Trade Industry
+                   Seasonally Adjusted
+                   1946. 1 - present
