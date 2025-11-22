@@ -1,0 +1,232 @@
+FILENAME        DESCRIPTION OF FILE CONTENTS
+--------        -------------------------------------------------
+CBI             Change in Business Inventories, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+CBIC92          Real Change in Business Inventories, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.3 - present
+COE             Compensation of Employees, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+COFC            Consumption of Fixed Capital (GNP), SAAR
+                   Billions of Dollars
+                   1959.1 - present
+CPATAX          Corporate Profits After Tax with Iva & CCAdj, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+CPROFIT         Corporate Profits with IVA & CCAdj, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+DGI             National Defense Gross Investment, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+DGIC92          Real National Defense Gross Investment, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.3 - present
+DPI             Disposable Personal Income, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+DPIC92          Real Disposable Personal Income, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.3 - present
+DSPI            Disposable Personal Income, SAAR
+                   Billions of Dollars
+                   1959.01 - present (Monthly)
+DSPIC92         Real Disposable Personal Income, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.01 - present (Monthly)
+EXPGS           Exports of Goods And Services, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+EXPGSC92        Real Exports of Goods & Services, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.3 - present
+FGCEC92         Real Federal Consumption Expenditures and Gross
+                   Investment, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.3 - present
+FGEXPND         Federal Government: Current Expenditures, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+FGRECPT         Federal Government Receipts, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+FINSAL          Final Sales, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+FINSLC92        Real Final Sales, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.3 - present
+FPI             Fixed Private Investment, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+FPIC92          Real Fixed Private Investment, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.3 - present
+GCEC92          Real Government Consumption and Expenditures
+                   and Gross Investment, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.3 - present
+GDP             Gross Domestic Product, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+GDP92           Real Gross Domestic Product, SAAR
+                   Billions of Fixed 1992 Dollars
+                   1959.1 - present
+GDPC92          Real Gross Domestic Product, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.3 - present
+GDPCTPI         Gross Domestic Product Chain-Type Price
+                   Index (1992=100)
+                   Seasonally Adjusted
+                   1959.3 - present
+GDPDEF          Gross Domestic Product Implicit Price
+                   Deflator (1992=100)
+                   Seasonally Adjusted
+                   1959.1 - present
+GEXPND          Government Current Expenditures, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+GNP             Gross National Product, SAAR
+                   Billions of Dollars
+                   1959.3 - present
+GNP92           Real Gross National Product, SAAR
+                   Billions of Fixed 1992 Dollars
+                   1959.1 - present
+GNPALL.EXE      Compressed file containing all GNP and
+                   Components series (IBM and IBM compatible)
+GNPALL.ZIP      Compressed file containing all GNP and
+                   Components series
+GNPC92          Real Gross National Product, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.3 - present
+GNPCTPI         Gross National Product Chain-Type Price
+                   Index (1992=100)
+                   Seasonally Adjusted
+                   1959.3 - present
+GNPDEF          Gross National Product Implicit Price
+                   Deflator (1992=100)
+                   Seasonally Adjusted
+                   1959.1 - present
+GPDI            Gross Private Domestic Investment, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+GPDIC92         Real Gross Private Domestic Investment, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.3 - present
+GPDICTPI        Gross Private Domestic Investment Chain-Type
+                   Price Index (1992=100)
+                   Seasonally Adjusted
+                   1959.3 - present
+GPSAVE          Gross Private Savings, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+GRECPT          Government Receipts, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+GSAVE           Gross Savings, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+IBT             Indirect Business Tax and Nontax Liability, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+IMPGS           Imports of Goods & Services, SAAR
+                   Billions of Dollars
+                   1959.01 - present
+IMPGSC92        Real Imports of Goods & Services, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.3 - present
+NDGI            Federal Nondefense Gross Investment, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+NDGIC92         Real Federal Nondefense Gross Investment,SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.03 - present
+NETEXC92        Real Net Exports of Goods and Services, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.3 - present
+NETEXP          Net Exports of Goods and Services, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+NETFI           Net Foreign Investment, SAAR
+                   Billions of Dollars
+                   1959.01 - present
+NFCPATAX        Nonfinancial Corporate Business Profits After
+                   Tax, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+NICUR           National Income, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+NRIPDC92        Real Nonresidential Investment: Producers'
+                   Durable Equipment, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.3 - present
+PCE             Personal Consumption Expenditures, SAAR
+                   Billions of Dollars
+                   1959.01 - present
+PCEC92          Real Personal Consumption Expenditures, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.01 - present
+PCECTPI         Personal Consumption Expenditures Chain-Type
+                   Price Index (1992=100)
+                   Seasonally Adjusted
+                   1959.3 - present
+PCEDG           Personal Consumption Expenditures: Durable
+                   Goods, SAAR
+                   Billions of Dollars
+                   1959.01 - present
+PCEDGC92        Real Personal Consumption Expenditures:
+                   Durable Goods, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.01 - present
+PCEND           Personal Consumption Expenditures:
+                   Nondurable Goods, SAAR
+                   Billions of Dollars
+                   1959.01 - present
+PCENDC92        Real Personal Consumption Expenditures:
+                   Nondurable Goods, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.01 - present
+PCES            Personal Consumption Expenditures:
+                   Services, SAAR
+                   Billions of Dollars
+                   1959.01 - present
+PCESC92         Real Personal Consumption Expenditures:
+                   Services, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.01 - present
+PI              Personal Income, SAAR
+                   Billions of Dollars
+                   1946.01 - present
+PNFIC92         Real Private Nonresidential Fixed Investment,SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.3 - present
+PRFIC92         Real Private Residential Fixed Investment, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.3 - present
+PROPINC         Proprietors Income with IVA & CCAdj, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+PSAVE           Personal Saving, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+PSAVERT         Personal Savings Rate, SAAR
+                   Percent
+                   1959.01 - present
+SLCEC92         Real State & Local Government Consumption
+                   Expenditures and Gross Investment, SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.3 - present
+SLEXPND         State & Local Government Current Expenditures,
+                   SAAR
+                   Billions of Dollars
+                   1959.1 - present
+SLINV           State & Local Government Gross Investment, SAAR
+                   Billions of Dollars
+                   1959.1 - present
+SLINVC92        Real State & Local Government Gross Investment,
+                   SAAR
+                   Billions of Chained 1992 Dollars
+                   1959.3 - present
